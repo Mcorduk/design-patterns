@@ -1,4 +1,4 @@
-## Design Patterns Playground
+# Design Patterns Playground
 
 This repository documents my journey of learning and implementing design patterns, primarily inspired by O'Reilly's Design Patterns book. Here, you'll find code examples, explanations, and resources for each pattern, serving as a personal reference and hopefully benefiting others along the way.
 
