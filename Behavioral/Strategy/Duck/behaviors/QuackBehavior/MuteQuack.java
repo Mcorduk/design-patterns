@@ -1,4 +1,4 @@
-package Duck.behaviors.QuackBehavior;
+package Behavioral.Strategy.Duck.behaviors.QuackBehavior;
 
 public class MuteQuack {
     public void quack(){

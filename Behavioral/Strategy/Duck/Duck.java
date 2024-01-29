@@ -1,7 +1,7 @@
-package Duck;
+package Behavioral.Strategy.Duck;
 
-import Duck.behaviors.FlyBehavior.FlyBehavior;
-import Duck.behaviors.QuackBehavior.QuackBehavior;
+import Behavioral.Strategy.Duck.behaviors.FlyBehavior.FlyBehavior;
+import Behavioral.Strategy.Duck.behaviors.QuackBehavior.QuackBehavior;
 
 public abstract class Duck {
   // Declare two reference variables for the behaviour interface types.

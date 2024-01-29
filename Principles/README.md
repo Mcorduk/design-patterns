@@ -17,3 +17,11 @@ Now, you can easily swap modules to change the machine's behavior without rewrit
 This makes it flexible, adaptable, and easier to build new machines with similar abilities.
 
 ![Alt text](image.png)
+
+## 3 Favor Composition over Inheritance
+
+Build with building blocks, not family trees. Think Lego, not tangled family lineages.
+Instead of inheriting everything from one ancestor, compose your objects from independent "behaviors"
+like flying, quacking, or swimming. These mix and match like modular parts,
+letting you create diverse ducks (swimmers, squeakers, rocket flyers!) without rewriting core duck code.
+Changes in one behavior stay isolated, keeping your code clean and adaptable.
